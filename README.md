@@ -16,7 +16,7 @@
 1. 克隆该仓库：
 
    ```bash
-   git clone https://github.com/Falling-In-Scilence/pid.git
+   git clone https://github.com/Falling-In-Scilence/FlexPID.git
    ```
 
 2. 将`pid.c`和`pid.h`文件集成到你的项目中。
